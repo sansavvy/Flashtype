@@ -1,5 +1,5 @@
-### FlashType
-# About the Project
+# FlashType
+## About the Project
 * This application is used to test the typing speed of the user within a minute.
 * Provides test results to user based on individual category of words, characters and typing Speed of the user.
 
